@@ -7,4 +7,7 @@
 ## Google analytics
 > **10 minutes**
 
+## Writing Dockerfile and docker-compose.yml
+> **15 minutes**
+
 ## Writing up initial routes, setting up
