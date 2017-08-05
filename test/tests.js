@@ -6,4 +6,11 @@ describe('Array', function() {
       expect([1,2,3].indexOf(4)).toBe(-1);
     });
   });
+
+  describe('app', (done) => {
+    it('should exist', (done) => {
+	const app = require('../app.js')
+	done()
+    });
+  });
 });

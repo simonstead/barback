@@ -10,4 +10,7 @@
 ## Writing Dockerfile and docker-compose.yml
 > **15 minutes**
 
+## installing test framework and writing an initall passing test
+> **5 minutes**
+
 ## Writing up initial routes, setting up
